@@ -2,7 +2,7 @@
 <h3 align="center">Hi, I'm Buddhika Dananjaya, 🚀 from Srilanka, currently, I'm a Undergraduate in NSBM 👨🏽‍💻 Beside's
     programming, I enjoy my friends and communities.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=BuddhikaD&brightgreen" alt="BuddhikaD" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=BuddhikaD&color=brightgreen" alt="BuddhikaD" /> </p>
 
 **Talking about Personal Stuffs:**
 
