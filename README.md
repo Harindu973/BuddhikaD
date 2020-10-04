@@ -80,7 +80,7 @@
     
     ### Spotify Playing 🎧
 
-[<img src="https://spotify-on-readme.vercel.app/api/spotify" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/bwe9k5yqfn66up2yd8e4t6iin?si=mcB56FAEQp2W7HrKdcYCfg)
+[<img src="https://spotify-recently-played-readme.vercel.app/api?user=bwe9k5yqfn66up2yd8e4t6iin" Spotify Playing" width="350" />]
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuddhikaD&layout=compact"
         alt="BuddhikaD" /></p>
