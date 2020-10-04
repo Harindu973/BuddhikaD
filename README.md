@@ -77,6 +77,8 @@
             width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank"> <img
             src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react"
             width="40" height="40" /> </a> </p>
+
+  ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=bwe9k5yqfn66up2yd8e4t6iin&count=1)
   
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuddhikaD&layout=compact"
