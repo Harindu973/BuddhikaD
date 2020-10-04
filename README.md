@@ -77,6 +77,10 @@
             width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank"> <img
             src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react"
             width="40" height="40" /> </a> </p>
+    
+    ### Spotify Playing 🎧
+
+[<img src="https://spotify-on-readme.vercel.app/api/spotify" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/bwe9k5yqfn66up2yd8e4t6iin?si=mcB56FAEQp2W7HrKdcYCfg)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuddhikaD&layout=compact"
         alt="BuddhikaD" /></p>
